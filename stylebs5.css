@@ -1,0 +1,12 @@
+.common{
+    background-color:#fff;
+    border-radius: 1px;
+    text-align: center;
+    max-width:  100%;
+    
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
